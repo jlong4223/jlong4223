@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, I'm Jared Long
 
 <!--
 **jlong4223/jlong4223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 You can reach me at jlong4223@gmail.com
+- 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
+
+
