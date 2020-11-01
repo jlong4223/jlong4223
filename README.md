@@ -24,5 +24,9 @@ Here are some ideas to get you started:
 - Javascript
 - jQuery
 - Node.js
+- mongoDB
+- Express
+- Ruby on Rails
+
 
 
