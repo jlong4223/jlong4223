@@ -18,4 +18,11 @@ Here are some ideas to get you started:
 - 📫 You can reach me at jlong4223@gmail.com
 - 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
 
+## Technologies that I am learning
+- HTML
+- CSS
+- Javascript
+- jQuery
+- Node.js
+
 
