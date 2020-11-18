@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - Node.js
 - mongoDB
 - Express
+- Mongoose
 - Ruby on Rails
 
 
