@@ -19,14 +19,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
 
 ## Technologies that I am learning
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Javascript
 - jQuery
+- Bootstrap
 - Node.js
 - mongoDB
 - Express
 - Mongoose
+- React.js
 - Ruby on Rails
 
 
