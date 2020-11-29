@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - Bootstrap
 - Node.js
 - mongoDB
-- Express
-- Mongoose
+- Express.js
+- Mongoose.js
 - React.js
 - Ruby on Rails
 
