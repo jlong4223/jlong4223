@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 - 📫 You can reach me at jlong4223@gmail.com
 - 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
 
-## Technologies that I am learning
-<h3 align="center">| HTML5 | CSS3 | Javascipt | jQuery | Node.js | Express.js | Mongoose.js | React.js | Ruby on Rails | Bootstrap |</h3>
+<h2>Technologies that I am learning</h2>
+<h4>| HTML5 | CSS3 | Javascipt | Ruby on Rails |</h4>
+<h4> | jQuery | React.js | Node.js | </h4> 
+<h4> | Express | Mongoose | Bootstrap | </h4> 
 <!--
 - CSS3
 - Javascript
