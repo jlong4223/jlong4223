@@ -21,7 +21,7 @@ devicons: https://icongr.am/devicon
 
 <h2>Technologies where I am continuing to grow</h2>
 <h4>| HTML5 | CSS3 | Javascipt | Ruby on Rails |</h4>
-<h4> | jQuery | React.js | Node.js | </h4> 
+<h4> | jQuery | React.js | Node.js | Vue.js | </h4> 
 <h4> | Express | Mongoose | Bootstrap | </h4> 
 <!--
 - CSS3
