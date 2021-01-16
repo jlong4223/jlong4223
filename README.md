@@ -17,9 +17,9 @@ devicons: https://icongr.am/devicon
 -->
 
 - 📫 You can reach me at jlong4223@gmail.com
-- 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
+<!-- - 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
 
-<h2>Technologies where I am continuing to grow</h2>
+<h2>Technologies that I use:</h2>
 <h4>| HTML5 | CSS3 | Javascipt | Ruby on Rails |</h4>
 <h4> | jQuery | React.js | Node.js | Vue.js | </h4> 
 <h4> | Express | Mongoose | Bootstrap | </h4> 
