@@ -23,7 +23,8 @@ devicons: https://icongr.am/devicon
 <h2>Technologies that I use:</h2>
 <h4>| HTML5 | CSS3 | Javascipt | Ruby on Rails |</h4>
 <h4> | jQuery | React.js | Node.js | Vue.js | </h4> 
-<h4> | Express | Mongoose | Bootstrap | </h4> 
+<h4> | Express.js | Mongoose | Bootstrap | </h4> 
+<h4> | MongoDB | PostgreSQL |
 <!--
 - CSS3
 - Javascript
