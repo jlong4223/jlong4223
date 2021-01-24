@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 devicons: https://icongr.am/devicon
 -->
 
-- 📫 You can reach me at jlong4223@gmail.com
+- 📫  You can reach me at jlong4223@gmail.com
+- 🔭  I currently work as a <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=70&color=currentColor" alt="node" width="40" height="40"/> developer 
 <!-- 
 - 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
 -->
