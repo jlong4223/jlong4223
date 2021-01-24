@@ -21,12 +21,20 @@ devicons: https://icongr.am/devicon
 <!-- 
 - 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
 -->
+<table align="center">
 <h2>Technologies that I use:</h2>
-<h4>| HTML5 | CSS3 | Javascipt | Ruby on Rails |</h4>
+<tr>
+ <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact" /></td>
+<td><h4>| HTML5 | CSS3 | Javascript | Ruby on Rails |</h4>
 <h4> | jQuery | React.js | Node.js | Vue.js | </h4> 
 <h4> | Express.js | Mongoose | Bootstrap | </h4> 
-<h4> | MongoDB | PostgreSQL |
+  <h4> | MongoDB | PostgreSQL | </h4> </td>
+  </tr>
+ </table>
+  
+  
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - CSS3
 - Javascript
 - jQuery
