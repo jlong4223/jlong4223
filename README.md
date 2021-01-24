@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 devicons: https://icongr.am/devicon
 -->
 
-- ##### 📫  You can reach me at jlong4223@gmail.com
-- ##### 🔭  I currently work as a <img src="https://icongr.am/devicon/nodejs-original.svg?size=70&color=currentColor" alt="node" width="30" height="30"/> developer at <img src="https://www.bensendigital.com/images/ad-trafficLogo_white-07.png" alt="bensen" width="70" height="35"/>
+- #### 📫  You can reach me at jlong4223@gmail.com
+- #### 🔭  I currently work as a <img src="https://icongr.am/devicon/nodejs-original.svg?size=70&color=currentColor" alt="node" width="30" height="30"/> developer at <img src="https://www.bensendigital.com/images/ad-trafficLogo_white-07.png" alt="bensen" width="70" height="35"/>
 <!-- 
 - 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
 -->
