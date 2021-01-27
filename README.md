@@ -24,9 +24,12 @@ devicons: https://icongr.am/devicon
 <table align="center">
 <h2>Technologies that I use:</h2>
 <tr>
- <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact" /></td>
+ 
  <td> Languages:
   <h4>| Javascript | Ruby |</h4> </td>
+  <td> Databases:
+    <h4>| MongoDB | PostgreSQL | MySQL | </h4>
+  </td>
 </tr>
  <tr>
    <td> Frontend:
@@ -38,12 +41,9 @@ devicons: https://icongr.am/devicon
     <h4> | NPM | Mongoose.js | </h4>
   </td>
  </tr>
- <tr>
-   <td> Databases:
-    <h4>| MongoDB | PostgreSQL | MySQL | </h4>
-  </td>
-  </tr>
+ 
 </table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact" />
   
   
   
