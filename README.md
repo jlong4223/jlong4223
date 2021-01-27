@@ -43,7 +43,12 @@ devicons: https://icongr.am/devicon
  </tr>
  
 </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact" />
+
+<table align="center">
+ <tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact" /></td>
+  <tr>
+ <table>
   
   
   
