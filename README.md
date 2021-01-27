@@ -25,16 +25,34 @@ devicons: https://icongr.am/devicon
 <h2>Technologies that I use:</h2>
 <tr>
  <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact" /></td>
- <td><h4>| HTML5 | CSS3 | Javascript | Ruby on Rails |</h4>
- <h4> | jQuery | React.js | Node.js | Vue.js | </h4> 
- <h4> | Express.js | Mongoose | Bootstrap | </h4> 
- <h4> | MongoDB | PostgreSQL | </h4> </td>
+ <td> Languages:
+  <h4>| Javascript | Ruby |</h4> </td>
 </tr>
+ <tr>
+   <td> Frontend:
+    <h4> | HTML5 | CSS3 | jQuery | </h4>
+     <h4>| React.js | Vue.js | Bootstrap | SASS |</h4</td>
+   </td>
+   <td> Backend:
+    <h4> | Node.js | Ruby on Rails | Express.js | </h4>
+    <h4> | NPM | Mongoose.js | </h4>
+  </td>
+ </tr>
+ <tr>
+   <td> Databases:
+    <h4>| MongoDB | PostgreSQL | MySQL | </h4>
+  </td>
+  </tr>
 </table>
+  
   
   
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h4>| HTML5 | CSS3 | Javascript | Ruby on Rails |</h4></td>
+ <h4> | jQuery | React.js | Node.js | Vue.js | </h4> 
+ <h4> | Express.js | Mongoose | Bootstrap | </h4> 
+ <h4> | MongoDB | PostgreSQL | </h4>
 -->
 <table align="center">
 <tr>
