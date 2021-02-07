@@ -34,9 +34,8 @@ devicons: https://icongr.am/devicon
 </tr>
  <tr>
    <td> Frontend:
-    <h4> | HTML5 | CSS3 | SASS | </h4>
-    <h4>| NPM | jQuery | Bootstrap |</h4>
-    <h4>| React.js | Vue.js | Angular | </h4>
+    <h4> | HTML5 | CSS3 | SASS | Bootstrap | NPM |</h4>
+    <h4>| React.js | Vue.js | Angular | jQuery |</h4>
  </td>
    </td>
    <td> Backend:
