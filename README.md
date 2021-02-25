@@ -36,7 +36,7 @@ devicons: https://icongr.am/devicon
  <tr>
    <td> Frontend:
     <h4> | HTML5 | CSS3 | SASS | Bootstrap | NPM |</h4>
-    <h4>| React.js | Vue.js | Angular | jQuery |</h4>
+    <h4>| React.js | Vue.js | AngularJS | jQuery |</h4>
  </td>
    </td>
    <td> Backend:
