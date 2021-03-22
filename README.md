@@ -41,7 +41,7 @@ devicons: https://icongr.am/devicon
    </td>
    <td> Backend:
     <h4> | Node.js | Ruby on Rails | Express.js | </h4>
-    <h4> | NPM | Mongoose.js | </h4>
+    <h4> | NPM | Mongoose.js | Mocha.js | Chai.js |</h4>
   </td>
  </tr>
  
