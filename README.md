@@ -52,7 +52,7 @@ devicons: https://icongr.am/devicon
 <table align="center">
  <tr>
  <!-- <td><img src="https://github-readme-stats.vercel.app/api?username=jlong4223&theme=dark&show_icons=true)" /></td> -->
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact&langs_count=6" /></td>
   <tr>
  <table>
   
