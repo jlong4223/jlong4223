@@ -2,60 +2,66 @@
 
 <!--
 **jlong4223/jlong4223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 devicons: https://icongr.am/devicon
 -->
-
-- 📫  You can reach me at jlong4223@gmail.com
+<table align="center">
+ <tr>
+ <td>
+ 
+  - 📫  You can reach me at jlong4223@gmail.com
 <!-- - 🔭  I currently work as a <img src="https://icongr.am/devicon/nodejs-original.svg?size=70&color=currentColor" alt="node" width="30" height="30"/> developer. -->
 <!-- at <img src="https://www.bensendigital.com/images/ad-trafficLogo_white-07.png" alt="bensen" width="70" height="35"/> -->
-- 😄  My Portfolio: https://www.jaredlong.dev/
+  - 😄  My Portfolio: https://www.jaredlong.dev/
 
-- 👨‍💻 Follow my blog: https://dev.to/jlong4223
-<!-- 
-- 🌱 I’m currently learning the technologies to become a Full Stack Software Engineer through General Assembly
--->
+  - 👨‍💻 Follow my blog: https://dev.to/jlong4223
+  </td>
+  <td>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact&langs_count=6" />
+  </td>
+   </tr>
+</table>
+ 
 <table align="center">
 <h2>Technologies that I use:</h2>
 <tr>
  
  <td> Languages:
-  <h4>| Javascript | Ruby |</h4> </td>
+  <h4>| Javascript | Ruby |</h4> 
+ </td>
   <td> Databases:
-    <h4>| MongoDB | PostgreSQL | MySQL | ClearDB |</h4>
+    <h4>| MongoDB | PostgreSQL | </h4>
+    <h4> | MySQL | ClearDB | </h4>
   </td>
+  <td> Frameworks & Libraries:
+     <h4>| React.js | Vue.js | Redux |</h4>
+     <h4>| AngularJS | jQuery | </h4>
+   </td>
 </tr>
  <tr>
-   <td> Frontend:
-    <h4> | HTML5 | CSS3 | SASS | Bootstrap | NPM |</h4>
-    <h4>| React.js | Vue.js | AngularJS | jQuery |</h4>
- </td>
-   </td>
+   <td> Styling:
+    <h4> | CSS3 | SASS | Bootstrap | Bulma | </h4>
+    <h4>| MaterialUI | Semantic-UI | </h4>
+  </td>
    <td> Backend:
     <h4> | Node.js | Ruby on Rails | Express.js | </h4>
-    <h4> | NPM | Mongoose.js | Mocha.js | Chai.js |</h4>
+    <h4> | EJS | Mongoose.js | HBS |</h4>
+  </td>
+  <td> Testing & Deployment:
+    <h4> | Jest | Mocha.js | Chai.js |</h4>
+    <h4> | Heroku | Cloudflare | Netlify |</h4>
   </td>
  </tr>
  
 </table>
 
+<!--
 <table align="center">
  <tr>
- <!-- <td><img src="https://github-readme-stats.vercel.app/api?username=jlong4223&theme=dark&show_icons=true)" /></td> -->
+ <!-- <td><img src="https://github-readme-stats.vercel.app/api?username=jlong4223&theme=dark&show_icons=true)" /></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact&langs_count=6" /></td>
   <tr>
  <table>
-  
+--> 
   
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
