@@ -39,8 +39,8 @@ devicons: https://icongr.am/devicon
 </tr>
  <tr>
    <td> Styling:
-    <h4> | CSS3 | SASS | Bootstrap | Bulma | </h4>
-    <h4>| MaterialUI | Semantic-UI | </h4>
+    <h4> | CSS3 | Bootstrap | Bulma | </h4>
+    <h4>| MaterialUI | Semantic-UI | SASS </h4>
   </td>
    <td> Backend:
     <h4> | Node.js | Ruby on Rails | Express.js | </h4>
