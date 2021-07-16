@@ -12,7 +12,11 @@ devicons: https://icongr.am/devicon
 
   - 👨‍💻 Follow my blog: https://dev.to/jlong4223
  
- 
+ <div align="right">
+  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaredlong-95/)
+  
+</div>
  <!--
 <table align="center">
 <h2>Technologies that I use:</h2>
@@ -48,31 +52,24 @@ devicons: https://icongr.am/devicon
 </table>
 -->
 
-----------------------------------------------------------------
-<table align="center">
+---------------------------------------------------------------- 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact&langs_count=6" />
+
+<table margin="50">
  <tr>
   <td>
    Languages:
    <p>
-   JavaScript, Ruby, Swift &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
+   JavaScript, Ruby, Swift &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
    <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/>
    <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="ruby" width="40" height="40"/> 
    <img src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor" alt="swift" width="40" height="40"/>
    </p>
   </td>
-  <td>
- Frameworks:
-<p>
- React.js, Redux, Vue.js, AngularJS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
- <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" alt="vue" width="40" height="40"/>
- <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angular" width="40" height="40"/>
-</p>
-  </td>
- </tr>
 </table>
- 
- <table align="center">
+  
+ <table>
  <tr>
   <td>
    Backend:
@@ -83,6 +80,10 @@ devicons: https://icongr.am/devicon
    <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=b21f1f" alt="rails" width="40" height="40"/>
    </p>
   </td>
+  </table>
+   
+  <table>
+    <tr>
   <td>
  Databases:
 <p>
@@ -95,8 +96,21 @@ devicons: https://icongr.am/devicon
  </tr>
 </table>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact&langs_count=6" />
+<table>
+  <tr>
+  <td>
+    
+  Frameworks:
+  <p>
+ React.js, Redux, Vue.js, AngularJS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+ <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" alt="redux" width="40" height="40" />
+ <img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" alt="vue" width="40" height="40"/>
+ <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angular" width="40" height="40"/>
+</p>
+  </td>
+ </tr>
+</table>
 
   
 <!--
@@ -110,7 +124,3 @@ devicons: https://icongr.am/devicon
 </tr>
 </table>
 -->
-  
-Connect with me
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaredlong-95/)
