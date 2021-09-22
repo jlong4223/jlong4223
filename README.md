@@ -13,7 +13,22 @@ devicons: https://icongr.am/devicon
   - 👨‍💻 Follow my blog: https://dev.to/jlong4223
  
  <div align="right">
-  
+ 
+<!--   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=316192" alt="Postgres logo" title="Postgres" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
+  &nbsp; -->
+ 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaredlong-95/)
   
 </div>
@@ -59,12 +74,18 @@ devicons: https://icongr.am/devicon
 <table margin="50">
  <tr>
   <td>
-   Languages:
+    <p>Languages:</p>
+   
    <p>
-   JavaScript, Ruby, Swift &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/>
+     <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+  &nbsp;
+     <img src="https://img.shields.io/badge/ruby-282C34?logo=ruby&logoColor=red" alt="Ruby" title="Ruby" height="25" />
+  &nbsp;
+    <img src="https://img.shields.io/badge/swift-282C34?&logo=swift&logoColor=orange" alt="swift" title="swift" height="25" />
+     
+<!--    <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/>
    <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="ruby" width="40" height="40"/> 
-   <img src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor" alt="swift" width="40" height="40"/>
+   <img src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor" alt="swift" width="40" height="40"/> -->
    </p>
   </td>
 </table>
@@ -72,12 +93,13 @@ devicons: https://icongr.am/devicon
  <table>
  <tr>
   <td>
-   Backend:
+    <p>Backend:</p>
    <p>
-   Node.js, Express.js, Ruby on Rails &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; 
-   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="nodejs" width="40" height="40"/>
-   <img src="https://icongr.am/devicon/express-original.svg?size=128&color=6a6868" alt="express" width="40" height="40"/>
-   <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=b21f1f" alt="rails" width="40" height="40"/>
+      <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+  &nbsp;
+     <img src="https://img.shields.io/badge/express.js-282C34?&logo=express&logoColor=%2361DAFB" alt="Ruby" title="Ruby" height="25" />
+  &nbsp;
+    <img src="https://img.shields.io/badge/rails-282C34?&logo=ruby-on-rails&logoColor=red" alt="swift" title="swift" height="25" />
    </p>
   </td>
   </table>
@@ -85,12 +107,16 @@ devicons: https://icongr.am/devicon
   <table>
     <tr>
   <td>
- Databases:
+    <p>Databases:</p>
 <p>
- MongoDB, PostgreSQL, MySQL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 
- <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="40" height="40"/>
+     <img src="https://img.shields.io/badge/MySQL-282C34?&logo=mysql&logoColor=blue" alt="Node.js logo" title="Node.js" height="25" />
+  &nbsp;
+     <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=316192" alt="Postgres logo" title="Postgres" height="25" />
+  &nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-282C34?&logo=mongodb&logoColor=green" alt="swift" title="swift" height="25" />
+<!--  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="40" height="40"/>
  <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgreSQL" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="mySQL" width="40" height="40"/>
+ <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="mySQL" width="40" height="40"/> -->
 </p>
   </td>
  </tr>
@@ -98,21 +124,29 @@ devicons: https://icongr.am/devicon
 
 <table>
   <tr>
-  <td>
+  <td>  
+    <p> Frameworks & Libraries: </p>
     
-  Frameworks:
   <p>
- React.js, Redux, Vue.js, AngularJS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
- <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+  &nbsp;
+     <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+  &nbsp;
+     <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+  &nbsp;
+    <img src="https://img.shields.io/badge/Vue.js-282C34?&logo=vuedotjs&logoColor=green" alt="ESLint logo" title="ESLint" height="25" />
+  &nbsp;
+    <img src="https://img.shields.io/badge/Angular.js-282C34?&logo=angularjs&logoColor=red" alt="ESLint logo" title="ESLint" height="25" />
+  &nbsp;
+<!--  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> 
   <img src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" alt="redux" width="40" height="40" />
  <img src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" alt="vue" width="40" height="40"/>
- <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angular" width="40" height="40"/>
+ <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angular" width="40" height="40"/> -->
 </p>
   </td>
  </tr>
 </table>
 
-  
 <!--
 <table align="center">
 <tr>
