@@ -28,7 +28,7 @@ devicons: https://icongr.am/devicon
   &nbsp;
   <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
   &nbsp; -->
- 
+[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/jlong4223) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaredlong-95/)
   
 </div>
