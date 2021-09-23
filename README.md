@@ -69,7 +69,7 @@ devicons: https://icongr.am/devicon
 
 ---------------------------------------------------------------- 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact&langs_count=5" />
 
 <table margin="50">
  <tr>
