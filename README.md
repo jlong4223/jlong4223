@@ -9,6 +9,7 @@ devicons: https://icongr.am/devicon
   - 😄  My Portfolio: https://www.jaredlong.dev/
   - 👨‍💻 Follow my blog: https://dev.to/jlong4223
  
+ Current Focus:  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=blue" alt="typescript" title="typescript" height="25" />
 
  
  <div align="right">
@@ -27,10 +28,11 @@ devicons: https://icongr.am/devicon
   &nbsp;
   <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
   &nbsp; -->
+
+  
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />](https://www.jaredlong.dev/) 
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/jlong4223) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaredlong-95/)
-  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaredlong-95/)                                                                                                             
 </div>
  <!--
 <table align="center">
@@ -71,17 +73,6 @@ devicons: https://icongr.am/devicon
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlong4223&layout=compact&langs_count=5" />
 -->
-
-<table margin="50">
- <tr>
-  <td>
-    <p>Currently Learning:</p>
-   
-   <p>
-     <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=blue" alt="typescript" title="typescript" height="25" />
-   </p>
-  </td>
-</table>
 
 <table margin="50">
  <tr>
