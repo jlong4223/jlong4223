@@ -9,8 +9,9 @@ devicons: https://icongr.am/devicon
   - 😄  My Portfolio: https://www.jaredlong.dev/
   - 👨‍💻 Follow my blog: https://dev.to/jlong4223
  
+ <!--
  Current Focus:  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=blue" alt="typescript" title="typescript" height="25" />
-
+-->
  
  <div align="right">
  
