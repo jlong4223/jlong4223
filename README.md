@@ -86,7 +86,8 @@ devicons: https://icongr.am/devicon
      <img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=red" alt="Ruby" title="Ruby" height="25" />
   &nbsp;
     <img src="https://img.shields.io/badge/Swift-282C34?&logo=swift&logoColor=orange" alt="swift" title="swift" height="25" />
-     
+  &nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-282C34?&logo=typescript&logoColor=blue" alt="swift" title="swift" height="25" />
 <!--    <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/>
    <img src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor" alt="ruby" width="40" height="40"/> 
    <img src="https://icongr.am/devicon/swift-original.svg?size=128&color=currentColor" alt="swift" width="40" height="40"/> -->
