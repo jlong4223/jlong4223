@@ -105,6 +105,8 @@ devicons: https://icongr.am/devicon
      <img src="https://img.shields.io/badge/Express.js-282C34?&logo=express&logoColor=%2361DAFB" alt="Ruby" title="Ruby" height="25" />
   &nbsp;
     <img src="https://img.shields.io/badge/Rails-282C34?&logo=ruby-on-rails&logoColor=red" alt="swift" title="swift" height="25" />
+       &nbsp;
+    <img src="https://img.shields.io/badge/Serverless-282C34?&logo=serverless&logoColor=red" alt="serverless" title="serverless" height="25" />
    </p>
   </td>
   </table>
