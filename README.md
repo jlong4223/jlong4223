@@ -121,6 +121,8 @@ devicons: https://icongr.am/devicon
      <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=316192" alt="Postgres logo" title="Postgres" height="25" />
   &nbsp;
     <img src="https://img.shields.io/badge/MongoDB-282C34?&logo=mongodb&logoColor=green" alt="swift" title="swift" height="25" />
+  &nbsp;
+    <img src="https://img.shields.io/badge/FaunaDB-282C34?&logo=fauna&logoColor=3a1ab6" alt="faunadb" title="faunadb" height="25" />
 <!--  <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="40" height="40"/>
  <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgreSQL" width="40" height="40"/> 
  <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="mySQL" width="40" height="40"/> -->
